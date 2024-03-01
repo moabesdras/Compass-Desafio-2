@@ -174,18 +174,18 @@
  }
 
 .half1 {
-  background-image: url("/Imagens/banner-1.png");
+  background-image: url("Imagens/banner-1.png");
   width: 611px;
  }
 
  .half2-1 {
-  background-image: url("/Imagens/banner-2.png");
+  background-image: url("Imagens/banner-2.png");
   width: 557px;
   height: 289px;
  }
 
  .half2-2 {
-  background-image: url("/Imagens/banner-3.png");
+  background-image: url("Imagens/banner-3.png");
   width: 557px;
   height: 261px;
  }
@@ -534,7 +534,7 @@
   align-self: stretch;
   flex-grow: 0;
 
-  background-image: url("/Imagens/featured-card1.png");
+  background-image: url("Imagens/featured-card1.png");
 
  }
 
@@ -547,7 +547,7 @@
   align-self: stretch;
   flex-grow: 0;
 
-  background-image: url("/Imagens/featured-card2.png");
+  background-image: url("Imagens/featured-card2.png");
 
  }
 .card-tag {
